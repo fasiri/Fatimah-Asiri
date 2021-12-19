@@ -1,4 +1,4 @@
-# Interpreter Ecommerce Issues- ML
+# Interpreter Ecommerce Issues
 ## Project Proposal: 
 E-commerce is one of the biggest Marketplaces. It has developed rapidly day by day and made our life easier. E-Commerce refers to the entire process of marketing, selling, delivering goods, and servicing customers over the Internet. It has revolutionized the way companies do business. Consumers can buy almost anything online 24 hours a day and get their packegs delivered. 
 ## The Problem
